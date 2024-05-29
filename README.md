@@ -2,6 +2,10 @@
 Ignite Design System
 </h1>
 
+<div align="right">
+  Clique <a href="https://github.com/luc-ribeiro/ignite-design-system-react/blob/main/README-PTBR.md">aqui</a> para ver a versão em Português.
+</div>
+
 <h2 align="center">Link <a href="https://luc-ribeiro.github.io/ignite-design-system-react/" target="_blank">Storybook</a> </h2>
 
 <h2 align="center">
@@ -18,13 +22,11 @@ Ignite Design System
 
 ![image](https://github.com/luc-ribeiro/ignite-design-system-react/assets/69688077/f75a399b-6ce0-4695-9791-510690181228)
 
+## 📄 Project
 
+Design System built to be applied in another project called _Ignite Call_. Components built in this project include: colors, spaces, font sizes, font families, headings, inputs, and more. Using Storybook for documentation, React as the base application, TurboRepo, MonoRepo, and automations.
 
-## 📄 Projeto
-Design System construído para ser aplicado em outro projeto chamado _Ignite Call_. 
-Componentes construídos neste projeto: cores, espaços, tamanhos de fontes, família de fontes, cabeçalhos, inputs e mais. Utilizando o Storybook para documentação, React como aplicativo base, turbo repo, mono repo e automações.
-
-## 💻 Tecnologias
+## 💻 Technologies
 
 - **ReactJS**
 - **TypeScript**
@@ -33,7 +35,7 @@ Componentes construídos neste projeto: cores, espaços, tamanhos de fontes, fam
 - **Radix UI**
 - **TurboRepo**
 
-## :art: Componentes
+## :art: Components
 
 - Text
 - Heading
@@ -47,25 +49,27 @@ Componentes construídos neste projeto: cores, espaços, tamanhos de fontes, fam
 - Tooltip
 - Toast
 
-## 🔖 Layout utilizado para a criação dos componentes
+## 🔖 Layout used for component creation
+
 - [Ignite Call - Figma](https://www.figma.com/file/1fBgGauyyzAeE9AA8w7Dzi/Ignite-Call--%E2%80%A2-Projeto-React-(Copy)?type=design&node-id=339-74&mode=design)
 
-## 🚀 Executando o projeto
+## 🚀 Running the project
 
-- Clone o projeto e acesse o diretório
+- Clone the project and access the directory
 
 ```bash
 $ git clone https://github.com/luc-ribeiro/ignite-design-system-react.git
-$ cd 
+$ cd ignite-design-system-react
 ```
 
-- Siga os passos abaixo:
+- Follow the steps below:
+
 ```bash
-# Instale as dependências
+# Install dependencies
 $ npm i
 
-# Inicie o projeto
+# Start the project
 $ npm run dev
 ```
 
-- A documentação estará disponível no endereço `http://localhost:6006`
+- The documentation will be available at `http://localhost:6006`
